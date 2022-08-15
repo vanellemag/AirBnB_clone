@@ -1,0 +1,15 @@
+.he{
+    background-color:white;
+    height: 70px;
+    width: 100%;
+    border: 1px;
+    border-bottom:1px solid #CCCCCC;
+}
+.logo{
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    align-items: left;
+    width: 88%;
+    height: 85%;
+    border-left: 20px;
+}

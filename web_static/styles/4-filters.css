@@ -1,0 +1,26 @@
+.container .filters{
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    position: relative;
+    left:13%;
+
+}
+.container .search{
+    font-size: 18px;
+    background-color: red;
+    color: #FFFFFF;
+    height: 48px;
+    width: 20%;
+    border-color: red;
+    border-radius: 4px;
+    position: relative;
+    top: 10px;
+    left:78%;
+
+}
+.container .search:hover{
+    opacity: inherit 20%;
+}
